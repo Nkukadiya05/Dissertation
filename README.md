@@ -45,8 +45,8 @@ A storytelling dashboard has been built using Streamlit, allowing users to:
 
 ## How to Run
 1. Clone the repository
-2. Navigate to the Streamlit_Dashboard folder
-3. Run streamlit run dashboard.py
+2. Navigate to the MyDashApp folder
+3. Run streamlit link on browser
 
 ## Insights & Learnings
 - Pandemic impacts were sector-specific, with hospitality being the most vulnerable
